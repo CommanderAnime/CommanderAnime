@@ -6,4 +6,3 @@ I don't keep portfolios for any of my work. Too <strike>lazy</strike> busy for a
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderAnime&theme=bear&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=CommanderAnime&show_icons=true&theme=bear&hide_border=true"/>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CommanderAnime)
