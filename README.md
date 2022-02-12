@@ -9,6 +9,8 @@ I don't keep portfolios for any of my work. Too ~~lazy~~ busy for commissions!
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderAnime&hide_title=true&hide_border=true&disable_animations=true&theme=dracula"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=CommanderAnime&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=dracula"/> |
 | ------------- | ------------- |
 
+---
+
 ## Stuff I do
 
 ![JavaScript](https://img.shields.io/badge/javascript-282a36.svg?&style=for-the-badge&logo=javascript&logoColor=f1e05a)\
@@ -19,3 +21,7 @@ I don't keep portfolios for any of my work. Too ~~lazy~~ busy for commissions!
 
 ![TypeScript](https://img.shields.io/badge/typescript-282a36.svg?&style=for-the-badge&logo=typescript&logoColor=007acc)\
 ![SASS](https://img.shields.io/badge/SASS-282a36.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=CommanderAnime&color=c4475c&style=flat-square)
