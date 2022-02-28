@@ -1,4 +1,4 @@
-# Hi there!
+![Hey, I'm Commander and this image hasn't loaded](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%23C9D1D9&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander+%F0%9F%92%9C;I+do+stuff.)
 
 I'm Asger Finding / Commander, a self-taught programmer. I'm great at googling things. Also a natural at obfuscating code by writing it.  
 I have a passion for all-things webdev. I work with JavaScript, its supersets, and its sibling languages.  
