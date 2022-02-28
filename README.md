@@ -1,13 +1,13 @@
 # Hi there!
 
-I'm Commander, a self-taught programmer, whose great at googling things. Also a natural at obfuscating code by writing it.\
-Love doing WebDev stuff; I mostly work with JavaScript and its sibling languages.\
+I'm Asger Finding / Commander, a self-taught programmer. I'm great at googling things. Also a natural at obfuscating code by writing it.  
+I have a passion for all-things webdev. I work with JavaScript, its supersets, and its sibling languages.  
 Most of my work is in private repositories!
 
-I don't keep portfolios for any of my work. Too ~~lazy~~ busy for commissions!
+I don't keep a portfolio.  
+Too ~~lazy~~ busy for commissions! 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderAnime&hide_title=true&hide_border=true&disable_animations=true&theme=dracula"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=CommanderAnime&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=dracula"/> |
-| ------------- | ------------- |
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=CommanderAnime&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=dracula'/>
 
 ---
 
