@@ -24,4 +24,4 @@ Too ~~lazy~~ busy for commissions!
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=CommanderAnime&color=c4475c&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=CommanderAnime&color=c4475c&style=for-the-badge)
