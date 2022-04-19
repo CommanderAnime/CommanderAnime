@@ -1,4 +1,4 @@
-![Hey, I'm Commander and this image hasn't loaded for you](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%23C9D1D9&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander.;I+do+stuff+%F0%9F%92%9C)
+![Hey, I'm Commander and this image hasn't loaded for you](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%23C9D1D9&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander.;I+make+stuff.+%F0%9F%92%9C)
 
 I'm Asger Finding / Commander, a self-taught programmer. My greatest skill is googling things. I do code obfuscation by writing it, and I have a huge passion for all-things web development. I work with JavaScript, its supersets, and its sibling “languages.”  
 A lot of my work is in private repositories.
