@@ -35,7 +35,7 @@ Too ~~lazy~~ busy to do commissions!
 ## Would love to do more
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/typescript-ffffff.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
+  <img src="https://img.shields.io/badge/typescript-282a36.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
   <img src="https://img.shields.io/badge/SASS-282a36.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4"/>
 </a>
 <a href="https://github.com/asger-finding#gh-light-mode-only">
