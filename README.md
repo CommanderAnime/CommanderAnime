@@ -8,15 +8,14 @@
 I'm Asger Finding / Commander, a self-taught programmer. My greatest skill is googling things. I do code obfuscation by writing it, and I have a huge passion for all-things web development. I work with JavaScript, its supersets, and its sibling “languages.”  
 A lot of my work is in private repositories.
 
-I don't have a portfolio yet.
-Too ~~lazy~~ busy to do commissions! 
-
+I don't keep a portfolio at the moment.  
+Too ~~lazy~~ busy for commissions! 
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=asger-finding&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=dracula"/>
 </a>
 <a href="https://github.com/asger-finding#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=asger-finding&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asger-finding&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=graywhite"/>
 </a>
 
 ## Stuff I do
@@ -32,7 +31,7 @@ Too ~~lazy~~ busy to do commissions!
   <img src="https://img.shields.io/badge/CSS-ffffff.svg?style=for-the-badge&logo=css3&logoColor=563d7c"/>
 </a>
 
-## Would love to do more
+## Still working on it
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
   <img src="https://img.shields.io/badge/typescript-282a36.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
