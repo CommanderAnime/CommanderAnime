@@ -31,7 +31,7 @@ Too ~~lazy~~ busy for commissions!
   <img src="https://img.shields.io/badge/CSS-ffffff.svg?style=for-the-badge&logo=css3&logoColor=563d7c"/>
 </a>
 
-## Still working on it
+## Still learning
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
   <img src="https://img.shields.io/badge/typescript-282a36.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
