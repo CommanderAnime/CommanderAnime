@@ -5,11 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2324292F&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander.;I+make+stuff.+%F0%9F%92%9C"/>
 </a>
 
-I'm Asger Finding / Commander, a self-taught programmer. My greatest skill is googling things. I do code obfuscation by writing it, and I have a huge passion for all-things web development. I work with JavaScript, its supersets, and its sibling “languages.”  
-A lot of my work is in private repositories.
+I'm Asger Finding (alias Commander), a self-taught programmer. I'm very skilled at googling things.
 
-I don't keep a portfolio at the moment.  
-Too ~~lazy~~ busy for commissions! 
+I'm a perfectionist; I will implement a feature, and then implement it again five more times. I have a huge passion for web development, node and web languages. I primarily work with JavaScript, its supersets, and its sibling “languages.”
+
+Privacy and FOSS are my passion points. <sup>Richard Stallman is bae</sup>
+
+Been meaning to get into C++ and rust.
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=asger-finding&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=dracula"/>
@@ -18,14 +20,18 @@ Too ~~lazy~~ busy for commissions!
   <img src="https://github-readme-stats.vercel.app/api?username=asger-finding&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=graywhite"/>
 </a>
 
-## Stuff I do
+## Stuff I do well
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
+  <img src="https://img.shields.io/badge/gulp-282a36.svg?&style=for-the-badge&logo=gulp&logoColor=eb4a4b"/>
+  <img src="https://img.shields.io/badge/typescript-282a36.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
   <img src="https://img.shields.io/badge/javascript-282a36.svg?&style=for-the-badge&logo=javascript&logoColor=f1e05a"/>
   <img src="https://img.shields.io/badge/HTML-282a36.svg?style=for-the-badge&logo=html5&logoColor=e34c26"/>
   <img src="https://img.shields.io/badge/CSS-282a36.svg?style=for-the-badge&logo=css3&logoColor=563d7c"/>
 </a>
 <a href="https://github.com/asger-finding#gh-light-mode-only">
+  <img src="https://img.shields.io/badge/gulp-ffffff.svg?&style=for-the-badge&logo=gulp&logoColor=eb4a4b"/>
+  <img src="https://img.shields.io/badge/typescript-ffffff.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
   <img src="https://img.shields.io/badge/javascript-ffffff.svg?&style=for-the-badge&logo=javascript&logoColor=d3b60a"/>
   <img src="https://img.shields.io/badge/HTML-ffffff.svg?style=for-the-badge&logo=html5&logoColor=e34c26"/>
   <img src="https://img.shields.io/badge/CSS-ffffff.svg?style=for-the-badge&logo=css3&logoColor=563d7c"/>
@@ -34,11 +40,9 @@ Too ~~lazy~~ busy for commissions!
 ## Still learning
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/typescript-282a36.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
   <img src="https://img.shields.io/badge/SASS-282a36.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4"/>
 </a>
 <a href="https://github.com/asger-finding#gh-light-mode-only">
-  <img src="https://img.shields.io/badge/typescript-ffffff.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
   <img src="https://img.shields.io/badge/SASS-ffffff.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4"/>
 </a>
 
