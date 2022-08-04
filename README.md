@@ -16,20 +16,20 @@ Privacy and FOSS are my passion points. <sup>Richard Stallman is bae</sup>
 Been meaning to get into C++ and rust.
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=asger-finding&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=dracula"/>
+  <img width="50%" src="https://user-images.githubusercontent.com/49583904/182928414-b9ee31f6-06ba-466d-bde7-e2e19111a5c4.png"/>
 </a>
 <a href="https://github.com/asger-finding#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=asger-finding&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&disable_animations=true&theme=graywhite"/>
+  <img width="50%" src="https://user-images.githubusercontent.com/49583904/182929324-9607011b-5236-4348-932c-6694c090ee86.png"/>
 </a>
 
 ## Stuff I do well
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/gulp-282a36.svg?&style=for-the-badge&logo=gulp&logoColor=eb4a4b"/>
-  <img src="https://img.shields.io/badge/typescript-282a36.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
-  <img src="https://img.shields.io/badge/javascript-282a36.svg?&style=for-the-badge&logo=javascript&logoColor=f1e05a"/>
-  <img src="https://img.shields.io/badge/HTML-282a36.svg?style=for-the-badge&logo=html5&logoColor=e34c26"/>
-  <img src="https://img.shields.io/badge/CSS-282a36.svg?style=for-the-badge&logo=css3&logoColor=563d7c"/>
+  <img src="https://img.shields.io/badge/gulp-212121.svg?&style=for-the-badge&logo=gulp&logoColor=eb4a4b"/>
+  <img src="https://img.shields.io/badge/typescript-212121.svg?&style=for-the-badge&logo=typescript&logoColor=007acc"/>
+  <img src="https://img.shields.io/badge/javascript-212121.svg?&style=for-the-badge&logo=javascript&logoColor=f1e05a"/>
+  <img src="https://img.shields.io/badge/HTML-212121.svg?style=for-the-badge&logo=html5&logoColor=e34c26"/>
+  <img src="https://img.shields.io/badge/CSS-212121.svg?style=for-the-badge&logo=css3&logoColor=563d7c"/>
 </a>
 <a href="https://github.com/asger-finding#gh-light-mode-only">
   <img src="https://img.shields.io/badge/gulp-d0d7de.svg?&style=for-the-badge&logo=gulp&logoColor=eb4a4b"/>
@@ -42,7 +42,7 @@ Been meaning to get into C++ and rust.
 ## Still learning
 
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
-  <img src="https://img.shields.io/badge/SASS-282a36.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/SASS-212121.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4"/>
 </a>
 <a href="https://github.com/asger-finding#gh-light-mode-only">
   <img src="https://img.shields.io/badge/SASS-d0d7de.svg?style=for-the-badge&logo=SASS&logoColor=ff69b4"/>
