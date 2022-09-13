@@ -1,8 +1,8 @@
 <a href="https://github.com/asger-finding#gh-dark-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&color=%23C9D1D9&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander.;I+make+stuff.+%F0%9F%92%9C"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=%23C9D1D9&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander.;I+make+stuff.+%F0%9F%92%9C"/>
 </a>
 <a href="https://github.com/asger-finding#gh-light-mode-only">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&color=%2324292F&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander.;I+make+stuff.+%F0%9F%92%9C"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&color=%2324292F&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander.;I+make+stuff.+%F0%9F%92%9C"/>
 </a>
 
 I'm Asger Finding (alias Commander), a self-taught programmer. I'm very good at googling things.
