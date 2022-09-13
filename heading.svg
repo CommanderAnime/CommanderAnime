@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 44" style="" width="400px" height="44px">
+
+    <style>
+	/* From database 2021-05-17 */
+	@font-face {
+	  font-family: 'IBM Plex Mono';
+	  font-style: normal;
+	  font-weight: 400;
+	  src: url(data:font/woff2;base64,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) format('woff2');
+	}
+	</style>
+	
+    <path id="path0">
+        <animate id="d0" attributeName="d" begin="0s;d1.end" dur="3000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
+    </path>
+    <text font-family="&quot;IBM Plex Mono&quot;, monospace" fill="#C9D1D9" font-size="32" dominant-baseline="middle" x="0%" text-anchor="start">
+        <textPath xlink:href="#path0">
+            Hey, I'm Commander.
+        </textPath>
+    </text>
+
+    <path id="path1">
+        <animate id="d1" attributeName="d" begin="d0.end" dur="3000ms" values="m0,22 h0 ; m0,22 h400 ; m0,22 h400 ; m0,22 h0" keyTimes="0;0.8;0.8;1"/>
+    </path>
+    <text font-family="&quot;IBM Plex Mono&quot;, monospace" fill="#C9D1D9" font-size="32" dominant-baseline="middle" x="0%" text-anchor="start">
+        <textPath xlink:href="#path1">
+            I make stuff. 💜
+        </textPath>
+    </text>
+
+</svg>
