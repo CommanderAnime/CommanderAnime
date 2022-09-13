@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2324292F&size=32&duration=3000&vCenter=true&height=44&lines=Hey%2C+I'm+Commander.;I+make+stuff.+%F0%9F%92%9C"/>
 </a>
 
-I'm Asger Finding (alias Commander), a self-taught programmer. I'm very skilled at googling things.
+I'm Asger Finding (alias Commander), a self-taught programmer. I'm very good at googling things.
 
 I work with all-things computers on the side. Passionate about computer keyboards and HiFi audio and doing graphics on the side (GIMP, blender & Inkscape)
 
