@@ -11,7 +11,7 @@ I work with all-things computers on the side. Passionate about computer keyboard
 
 I'm a perfectionist; I will implement a feature, and then implement it again five more times. I write with a airtight ESLint config, and I have a huge passion for web development, node and web languages. I primarily work with JavaScript, its supersets, and its sibling “languages.”
 
-Privacy and FOSS are my passion points. <sup>Richard Stallman is bae</sup>
+Privacy and FOSS are my passion points.
 
 Been meaning to get into C++ and rust.
 
